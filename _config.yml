@@ -1,1 +1,96 @@
-theme: jekyll-theme-cayman
+# Site settings 配置站点
+title: 'None'
+description: '不可無一.不可有二'
+keywords: '無一，有二，博客,部落格,io,wyi.io'
+url: 'https://wyi.io/' # your host
+
+# nav 中文字符空格：&emsp;
+nav:
+  首页: '/'
+  标签: '/tags.html'
+  时间线: '/timeline.html'
+  关于博主: '/about.html'
+  友情链接: '/friendLink.html'
+
+# 博主
+author: true
+name: 'Mr. Xiao Ming'
+NickName: '小明'
+webtitle: 'wuyi'
+bio: '一个酒馆打杂的小二'
+about: true
+aboutyou: '&emsp;&emsp;人称小明同学，一个学习前端行业的扫地玩家，平时喜欢爬山、骑行、拍照，偶尔玩网游(OW,MC)看看书经典的电影什么的，喜欢的书
+<a href="https://book.douban.com/subject/1200840/">《平凡的世界》</a>、<a href="https://book.douban.com/subject/2053249/">《麦田里的守望者》</a>、<a href= "https://book.douban.com/subject/1082154/">《活着》</a>，
+虽然还有很多，但是这几本是我最喜欢的。 喜欢关注的东西比较多。</br>&emsp;&emsp;即使自己所了解的世界很小，但还是想更多的再去看看。
+</br>&emsp;&emsp;搭建博客的原因也是因为让自己更好的记录一些知识，了解一些插件命令的使用方法。我的主页[<a href="https://fuhsi.cn">拾年</a>]</br>
+&emsp;&emsp;如果有什么好的想法和意见，欢迎通过下面的联系方式联系我！'
+portraits: '/assets/profile.jpeg' # your portraits image file path
+
+# SNS
+SNS: true
+SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
+  mail: 'mailto:80186625@qq.com'
+  github: 'https://github.com/ThomasLeeShelby'
+  instagram: 'https://www.instagram.com/thomasleeshelby'
+  weixin: 'https://wyi.io/wechat.png' # 你的微信二维码存放的地址
+  qq: 'http://sighttp.qq.com/msgrd?v=1&uin=80186625' # 你的qq二维码存放的地址
+  zhihu: 'https://www.zhihu.com/people/ry-bacy'
+  weibo: 'https://weibo.com/anshuoming'
+  # Codepen: ''
+  #Twitter: ''
+  #Dribbble: ''
+  #Facebook: ''
+  #Google: ''
+  #juejin: ''
+  #twitch: ''
+
+# 分页
+paginate: 4
+paginatepath: ['page:num']
+
+# since
+footer:
+  since: 2018
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+# 代码高亮 使用rouge
+highlighter: rouge
+# 代码高亮主题使用pygments主题: autumn\ default\ emacs\ friendly\ manni\ murphy\ pastie\ perldoc\ tango 任选一个你喜欢的主题名称填在下面的单引号中
+pygmentsTheme: 'tango'
+
+# 友情链接
+friends:
+  拾年: 'https://www.fuhsi.cn/'
+  markdown: 'https://wyi.io/markdown-syntax-master/'
+  php中文手册: 'https://www.php.cn/manual/view/4.html'
+
+# 评论 最佳体验 在disqus、livere和Gitment之间三选一
+# disqus 评论
+disqus: false
+disqus_url: '' # https://abc.disqus.com/embed.js
+# 来必力评论
+livere: true
+livere_uid: 'MTAyMC80MDUyMC8xNzA0Nw==' # MTAyMC80MDUyMC8xNzA0Nw==
+# Gitment评论 OAuth Application
+Gitment: false
+Gitment_owner: ''  # github用户名
+Gitment_repo: ''  # github博客存放的仓库名
+client_id: ''  # 注册 OAuth Application 后获得的 client_id
+client_secret: ''  # 注册 OAuth Application 后获得的 client_secret
+
+# Share : weibo, qq, wechat, tencent, douban, qzone, linkedin, diandian, facebook, twitter, google
+social-share: true
+social-share-items: ['qq', 'wechat', 'weibo', 'twitter', 'facebook']
+
+# 百度统计 在baidu-url里填写自己相关的url代码
+baidu: true
+baidu-url: '5c5d44aca1c8f1b6c61fb02fceba4e50'
+# 谷歌分析 在google-ID里填写自己在谷歌分析获得的追踪ID
+google: false
+google-ID: ''
+
+# 博客头信息备选颜色（该部分在站点中不充当站点变量，将其写在post的头信息中用来充当页面变量）
+color: rgb(154,133,255) rgb(255,90,90) rgb(255,210,32) rgb(98,170,255)
