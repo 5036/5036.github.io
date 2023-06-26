@@ -29,13 +29,13 @@ portraits: '/assets/profile.jpeg' # your portraits image file path
 # SNS
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
-  mail: 'mailto:80186625@qq.com'
-  github: 'https://github.com/ThomasLeeShelby'
-  instagram: 'https://www.instagram.com/thomasleeshelby'
-  weixin: 'https://wyi.io/wechat.png' # 你的微信二维码存放的地址
+  mail: 'mailto:dino.saur@qq.com'
+  github: 'https://github.com/A-YuTu'
+  #instagram: ''
+  weixin: 'https://AYU.AI/wechat.png' # 你的微信二维码存放的地址
   qq: 'http://sighttp.qq.com/msgrd?v=1&uin=80186625' # 你的qq二维码存放的地址
-  zhihu: 'https://www.zhihu.com/people/ry-bacy'
-  weibo: 'https://weibo.com/anshuoming'
+  #zhihu: ''
+  #weibo: 'g'
   # Codepen: ''
   #Twitter: ''
   #Dribbble: ''
