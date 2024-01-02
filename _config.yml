@@ -30,12 +30,12 @@ portraits: '/assets/profile.jpeg' # your portraits image file path
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
   mail: 'mailto:dino.saur@qq.com'
-  github: 'https://github.com/A-YuTu'
+  github: 'https://github.com/5036'
   #instagram: ''
-  weixin: 'https://Atu.AI/wechat.png' # 你的微信二维码存放的地址
-  qq: 'http://sighttp.qq.com/msgrd?v=1&uin=80186625' # 你的qq二维码存放的地址
+  weixin: 'https://5036.github.io/wechat.png' # 你的微信二维码存放的地址
+  #qq: '' 
   #zhihu: ''
-  #weibo: 'g'
+  #weibo: ''
   # Codepen: ''
   #Twitter: ''
   #Dribbble: ''
