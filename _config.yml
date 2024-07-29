@@ -73,7 +73,7 @@ disqus: false
 disqus_url: '' # https://abc.disqus.com/embed.js
 # 来必力评论
 livere: false
-livere_uid: 'MTAyMC80MDUyMC8xNzA0Nw==' # MTAyMC80MDUyMC8xNzA0Nw==
+livere_uid: ''
 # Gitment评论 OAuth Application
 Gitment: false
 Gitment_owner: ''  # github用户名
