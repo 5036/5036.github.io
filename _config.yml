@@ -1,8 +1,8 @@
 # Site settings 配置站点
 title: 'None'
-description: '不可無一.不可有二'
-keywords: '無一,有二,博客,部落格'
-url: '' # your host
+description: '一个画家'
+keywords: '無一,有二,博客'
+url: 'https://5036.github.io/' # your host
 
 # nav 中文字符空格：&emsp;
 nav:
@@ -17,7 +17,7 @@ author: true
 name: 'Mr. Xiao Ming'
 NickName: '小明'
 webtitle: 'A Painter'
-bio: '一介散人'
+bio: '一个画家'
 about: true
 aboutyou: '&emsp;&emsp;人称小明，网络闲人，平时喜欢爬山、骑行、拍照，偶尔玩网游(OW,MC)看看书经典的电影什么的，喜欢的书
 <a href="https://book.douban.com/subject/1200840/">《平凡的世界》</a>、<a href="https://book.douban.com/subject/2053249/">《麦田里的守望者》</a>、<a href= "https://book.douban.com/subject/1082154/">《活着》</a>，
